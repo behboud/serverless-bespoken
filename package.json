@@ -2,7 +2,7 @@
   "name": "serverless-bespoken",
   "author": "Behboud Ka",
   "description": "Serverless plugin to tunnel Lambda requests using Bespoken",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "index.js",
   "repository": {
@@ -10,6 +10,6 @@
     "url": "git+https://github.com/behboud/serverless-bespoken.git"
   },
   "dependencies": {
-    "bespoken-tools": "^1.1.0"
+    "bespoken-tools": "^2.3.7"
   }
 }
